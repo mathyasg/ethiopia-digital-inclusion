@@ -24,12 +24,12 @@ Ethiopia has seen rapid growth in mobile subscriptions, yet internet penetration
 ### 1. Visual System
 A documented design foundation covering colour, typography, chart language, and application rules. Built to keep every visual accurate, comparable, and on-brand.
 
-![Visual System](visuals/visual-system.png)
+![Visual System](visuals/visual_system.png)
 
 ### 2. One-Page Insight Brief
 A single-page synthesis that combines key metrics, four analytical charts, short insights, and a clear policy takeaway.
 
-![Insight Brief](visuals/insight-brief.png)
+![Insight Brief](visuals/insight_brief.png)
 
 ### 3. LinkedIn Carousel
 A five-slide narrative adaptation designed for professional audiences.
