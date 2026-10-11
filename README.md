@@ -36,10 +36,10 @@ A five-slide narrative adaptation designed for professional audiences.
 
 | Slide | Content | Image
 |-------|---------|-------
-| 01 | Hook – Closing Ethiopia’s Digital Divide | ![LinkedIn Carousel01](visuals/carousel01.png)
-| 02 | Mobile Surge vs. Internet Lag | ![LinkedIn Carousel02](visuals/carousel02.png)
-| 03 | The Mobile-First Access Reality | ![LinkedIn Carousel03](visuals/carousel03.png)
-| 04 | Strategic Policy Takeaway | ![LinkedIn Carousel04](visuals/carousel04.png)
+| 01 | Hook – Closing Ethiopia’s Digital Divide | ![LinkedIn hook](visuals/linkedin-carousel/hook.png)
+| 02 | Mobile Surge vs. Internet Lag | ![LinkedIn adoption-gap](visuals/linkedin-carousel/adoption-gap.png)
+| 03 | The Mobile-First Access Reality | ![LinkedIn mobile-first](visuals/linkedin-carousel/mobile-first.png)
+| 04 | Strategic Policy Takeaway | ![LinkedIn policy-takeaway](visuals/linkedin-carousel/policy-takeaway.png)
 
 ---
 
