@@ -24,15 +24,15 @@ Ethiopia has seen rapid growth in mobile subscriptions, yet internet penetration
 ### 1. Visual System
 A documented design foundation covering colour, typography, chart language, and application rules. Built to keep every visual accurate, comparable, and on-brand.
 
-![Visual System](visuals/visual-system.png)
+![Visual System](visuals/visual_system.png)
 
 ### 2. One-Page Insight Brief
 A single-page synthesis that combines key metrics, four analytical charts, short insights, and a clear policy takeaway.
 
-![Insight Brief](visuals/insight-brief.png)
+![Insight Brief](visuals/insight_brief.png)
 
 ### 3. LinkedIn Carousel
-A five-slide narrative adaptation designed for professional audiences.
+A five-slide narrative adaptation designed for LinkedIn.
 
 | Slide | Content | Image
 |-------|---------|-------
@@ -40,7 +40,7 @@ A five-slide narrative adaptation designed for professional audiences.
 | 02 | Mobile Surge vs. Internet Lag | ![LinkedIn adoption-gap](visuals/linkedin-carousel/adoption-gap.png)
 | 03 | The Mobile-First Access Reality | ![LinkedIn mobile-first](visuals/linkedin-carousel/mobile-first.png)
 | 04 | Strategic Policy Takeaway | ![LinkedIn policy-takeaway](visuals/linkedin-carousel/policy-takeaway.png)
-
+| 05 | Call to explore the full analysis | ![LinkedIn policy-takeaway](visuals/linkedin-carousel/explore-more.png)
 ---
 
 ## Key Insights
